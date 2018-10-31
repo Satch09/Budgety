@@ -2,3 +2,4 @@
 //This is a test
 //So I've just added another line to test the git pull function
 console.log('this a console log to test!');
+//Foo
