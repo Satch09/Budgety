@@ -1,19 +1,15 @@
 /*
 Basic overview:
+This is a budget calculation app that was part of a course which I am currently completing.
+It is my first attempt at writing something with actual functionality.
+It makes use of a modular design pattern and is written in ES5 and does some DOM manipulation (which I must say is pretty cool!).
+I have learned a lot while doing this and I've found myself having, "So THAT's how they do it..." moments.
+I've also used this as an opportunity to get the hang of git CLI, which at first was as confusing as hell but I
+soon realised was super easy to use. I can now see what all the hype is about, it is a very cool tool!
 
-Modules:
-UI Module
+Anyway
 
-budget user interface updated
-data added to the user interface
-
-Data Module
-input data retrieved
-data added to data structure
-budget is updated (calculated)
-
-Controller Module
-Add button is clicked - event handler
+Please comment, reuse and abuse. 
 */
 let calculationController = (function() {
 	// Code
